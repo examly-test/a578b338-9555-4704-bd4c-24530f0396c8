@@ -16,7 +16,7 @@ import org.springframework.test.web.servlet.request.MockMvcRequestBuilders;
 import org.springframework.test.web.servlet.result.MockMvcResultMatchers;
 import org.springframework.transaction.annotation.Transactional;
 
-//Testing 1.1 fot test
+//Testing 1.1 fot test master
 @SpringBootTest
 @AutoConfigureMockMvc
 @RunWith(SpringRunner.class)
