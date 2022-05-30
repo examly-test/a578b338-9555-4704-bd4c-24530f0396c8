@@ -3,7 +3,11 @@ package com.examly.springapp;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.jsonPath;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 
+<<<<<<< HEAD
 //import org.junit.Test;Testing1 pass
+=======
+//import org.junit.Test;testing 4.1 for test master
+>>>>>>> java-project-2
 import org.junit.jupiter.api.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -16,6 +20,10 @@ import org.springframework.test.web.servlet.request.MockMvcRequestBuilders;
 import org.springframework.test.web.servlet.result.MockMvcResultMatchers;
 import org.springframework.transaction.annotation.Transactional;
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> java-project-2
 @SpringBootTest
 @AutoConfigureMockMvc
 @RunWith(SpringRunner.class)
