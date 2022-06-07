@@ -2,4 +2,4 @@
 
 Testing 1
 
-Test commit to master
+Test commit to current branch
